@@ -1,4 +1,4 @@
-package com.jean;
+package com.jean.app;
 
 public class Main {
     public static void main(String[] args) {
