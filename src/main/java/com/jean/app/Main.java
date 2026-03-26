@@ -11,6 +11,7 @@ public class Main {
 
         service.cadastrar(new Usuario("Jean", "jean@000"));
         service.cadastrar(new Usuario("Ana", "ana@000"));
+        service.cadastrar(new Usuario("Nina", "nina@000"));
 
         service.listar();
     }
